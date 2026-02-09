@@ -1,0 +1,23 @@
+Name,Description,Designator,Revision ID,Revision State,Revision Status,Quantity,Manufacturer 1,Manufacturer Part Number 1,Manufacturer Lifecycle 1,JLCPCB Part #
+CBR04C150F5GAC,CAP CER 15PF 50V C0G/NP0 0402,"C1, C2",CMP-03020-017260-1,New From Design,Up to date,2,KEMET,CBR04C150F5GAC,Volume Production,C2167601
+CL21B474KBFNNNE,CL21 Series 0805 470nF 50V ±10% Tolerance X7R Multilayer Ceramic Chip Capacitor,C3,CMP-13271-002452-1,New From Design,Up to date,1,Samsung Electro-Mechanics,CL21B474KBFNNNE,Volume Production,C13967
+CL21B104KBCNNNC,CL21 Series 0805 100nF 50V ±10% Tolerance X7R Multilayer Ceramic Chip Capacitor,"C4, C5",CMP-2000-05017-2,New From Design,Up to date,2,Samsung Electro-Mechanics,CL21B104KBCNNNC,Volume Production,C1711
+CL21B105KOFNNNE,CL21 Series 0805 1uF 16V ±10% Tolerance X7R Multilayer Ceramic Chip Capacitor,"C6, C7, C8, C9, C10, C11, C12, C13",CMP-13271-003098-1,New From Design,Up to date,8,Samsung Electro-Mechanics,CL21B105KOFNNNE,Volume Production,C24123
+CL21A106KAYNNNE,CL21 Series 0805 10uF 25V ±10% Tolerance X5R Multilayer Ceramic Chip Capacitor,C14,CMP-13271-002975-1,New From Design,Up to date,1,Samsung Electro-Mechanics,CL21A106KAYNNNE,Volume Production,C15850
+LTST-C170GKT,LED GREEN CLEAR SMD,D1,CMP-1674-00002-6,New From Design,Up to date,1,Lite-On,LTST-C170GKT,Volume Production,C125090
+LTST-C170KRKT,"LED Red, 75 mW, 54 mcd, -55 to 85 degC, 2-Pin SMD, RoHS, Tape and Reel",DS1,CMP-2000-07593-1,Released,Up to date,1,Lite-On,LTST-C170KRKT,Volume Production,C94868
+RN4871-I/RM130,"BLUETOOTH BLE MODULE, SHIELDED,",MD1,CMP-06331-000010-1,New From Design,Up to date,1,Microchip,RN4871-I/RM130,Volume Production,C633942
+GRPB061VWVN-RC,"Male Header, Pitch 1.27 mm, 1 x 6 Position, Height 4 mm, Tail Length 2.3 mm, -40 to 105 degC, RoHS, Bulk",P1,CMP-2000-06374-1,Released,Up to date,1,Sullins,GRPB061VWVN-RC,Volume Production,C3331355
+AC0805FR-0747KL,RES SMD 47K OHM 1% 1/8W 0805,"R1, R4",CMP-2001-04501-2,New From Design,Up to date,2,Yageo Group,AC0805FR-0747KL,Volume Production,C144558
+RC0805JR-13150RL,,"R2, R9, R10",CMP-2001-04542-1,Released,Up to date,3,Yageo Group,RC0805JR-13150RL,Volume Production,C4293713
+AC0805FR-071KL,,R3,CMP-2001-04486-1,Released,Up to date,1,Yageo Group,AC0805FR-071KL,Volume Production,C140870
+RC0805FR-07100KL,RES 100K OHM 1% 1/8W 0805,R5,CMP-2100-03668-5,Released,Up to date,1,Yageo Group,RC0805FR-07100KL,Volume Production,C96346
+RC0805FR-0710KL,"Chip Resistor, 10 KOhm, +/- 1%, 0.125 W, -55 to 155 degC, 0805 (2012 Metric), RoHS, Tape and Reel","R6, R7",CMP-1659-00013-4,Released,Up to date,2,Yageo Group,RC0805FR-0710KL,Volume Production,C84376
+RC0805FR-074K7L,"General Puprose Chip Resistor, 4700 Ohm +/- 1%, 0.125 W, -55 to 155 degC, 2-Pin SMD, RoHS, Tape and Reel",R8,CMP-1568-00001-1,Released,Up to date,1,Yageo Group,RC0805FR-074K7L,Volume Production,C60816
+RC0805FR-07330RL,"Chip Resistor, 330 Ohm, +/- 1%, 125 mW, -55 to 155 degC, 0805 (2012 Metric), RoHS, Tape and Reel","R11, R12",CMP-2000-06960-1,Released,Up to date,2,Yageo Group,RC0805FR-07330RL,Volume Production,C105878
+EVQP2002W,SWITCH TACTILE SPST-NO 0.02A 15V,SW1,CMP-05618-000142-1,New From Design,Up to date,1,Panasonic,EVQP2002W,Volume Production,C512395
+MSP430FR5739IDAR,"24 MHz Mixed Signal Microcontroller, 1024 B SRAM and 33 GPIOs, -40 to 85 degC, 38-pin SOP (DA), Green (RoHS & no Sb/Br)",U1,CMP-0365-00022-1,Released,Up to date,1,Texas Instruments,MSP430FR5739IDAR,Volume Production,C1340080
+NTR4101PT1G,MOSFET P-CH 20V 1.8A SOT-23,U2,CMP-1058-00754-2,New From Design,Up to date,1,onsemi,NTR4101PT1G,Volume Production,C35920
+TLV75533PDBVR,IC REG LINEAR 3.3V 500MA SOT23-5,U3,CMP-04917-000010-1,New From Design,Up to date,1,Texas Instruments,TLV75533PDBVR,Volume Production,C404027
+MCP111T-195I/TT,"1.75Î¼A Micropower Voltage Detector, Open-Drain Output, 1.90V, 3-Pin SOT-23, Industrial Temperature, Tape and Reel",U4,CMP-0130-00051-1,Released,Up to date,1,Microchip,MCP111T-195I/TT,Volume Production,C625158
+ABS06-32.768KHZ-9-1-T,Crystal 32.768kHz ±10ppm (Tol) 9pF FUND 90k? 2-Pin Mini-CSMD T/R,Y1,CMP-27762-003430-2,New From Design,Up to date,1,Abracon,ABS06-32.768KHZ-9-1-T,Volume Production,C510776

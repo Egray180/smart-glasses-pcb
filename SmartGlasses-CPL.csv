@@ -1,0 +1,37 @@
+Designator,Comment,Layer,Footprint,Mid X,Mid Y,Rotation,Description
+MD1,RN4871-I/RM130,Top,FP-RN4871-I-RM130-MFG,48.75,103.125,0,"BLUETOOTH BLE MODULE, SHIELDED,"
+Y1,ABS06-32.768KHZ-9-1-T,Top,FP-ABS06-MFG,43.9,62.2,270,Crystal 32.768kHz ±10ppm (Tol) 9pF FUND 90k? 2-Pin Mini-CSMD T/R
+U4,MCP111T-195I/TT,Top,SOT-23-TT3_M,51.5,94.5,0,"1.75Î¼A Micropower Voltage Detector, Open-Drain Output, 1.90V, 3-Pin SOT-23, Industrial Temperature, Tape and Reel"
+U3,TLV75533PDBVR,Top,FP-DBV0005A-MFG,43.25,81.9258,90,IC REG LINEAR 3.3V 500MA SOT23-5
+U2,NTR4101PT1G,Top,FP-318-08-MFG,42.5,74.1758,270,MOSFET P-CH 20V 1.8A SOT-23
+U1,MSP430FR5739IDAR,Top,TI-DA38_N,49.9,55,0,"24 MHz Mixed Signal Microcontroller, 1024 B SRAM and 33 GPIOs, -40 to 85 degC, 38-pin SOP (DA), Green (RoHS & no Sb/Br)"
+SW1,EVQP2002W,Top,FP-EVQP2002W-MFG,57,48,0,SWITCH TACTILE SPST-NO 0.02A 15V
+R10,150,Top,RESC2013X60X35LL10T20,42.5,99.75,270,
+R9,150,Top,RESC2013X60X35LL10T20,45,97.5,270,
+R12,330,Top,RESC2013X60X35LL10T20,55.5,105.75,180,"Chip Resistor, 330 Ohm, +/- 1%, 125 mW, -55 to 155 degC, 0805 (2012 Metric), RoHS, Tape and Reel"
+R11,330,Top,RESC2013X60X35LL10T20,48.25,94.75,90,"Chip Resistor, 330 Ohm, +/- 1%, 125 mW, -55 to 155 degC, 0805 (2012 Metric), RoHS, Tape and Reel"
+R8,4.7k,Top,YAGO-RC0805_M,51.5,97.75,0,"General Puprose Chip Resistor, 4700 Ohm +/- 1%, 0.125 W, -55 to 155 degC, 2-Pin SMD, RoHS, Tape and Reel"
+R7,10k,Top,RESC2013X60X35NL10T20,50.75,81.4258,270,"Chip Resistor, 10 KOhm, +/- 1%, 0.125 W, -55 to 155 degC, 0805 (2012 Metric), RoHS, Tape and Reel"
+R6,10k,Top,RESC2013X60X35NL10T20,52.75,81.4258,270,"Chip Resistor, 10 KOhm, +/- 1%, 0.125 W, -55 to 155 degC, 0805 (2012 Metric), RoHS, Tape and Reel"
+R5,100k,Top,FP-RC0805-0_6-IPC_C,47.5,88.1758,270,RES 100K OHM 1% 1/8W 0805
+R3,1k,Top,RESC2013X60X35ML10T20,42.25,89,90,
+R4,47k,Top,FP-AC0805-MFG,45.25,74.4258,90,RES SMD 47K OHM 1% 1/8W 0805
+R2,150,Top,RESC2013X60X35LL10T20,44,55,90,
+R1,47k,Top,FP-AC0805-MFG,51,46.75,270,RES SMD 47K OHM 1% 1/8W 0805
+P1,GRPB061VWVN-RC,Top,SLIN-GRPB061VWVN-RC_V,49.535,43.5,0,"Male Header, Pitch 1.27 mm, 1 x 6 Position, Height 4 mm, Tail Length 2.3 mm, -40 to 105 degC, RoHS, Bulk"
+DS1,LTST-C170KRKT,Top,LTST-C170KRKT_V,42.65,57.2,180,"LED Red, 75 mW, 54 mcd, -55 to 85 degC, 2-Pin SMD, RoHS, Tape and Reel"
+D1,LTST-C170GKT,Top,FP-LTST-C170GKT-MFG,45.3,89.7,90,LED GREEN CLEAR SMD
+C14,10u,Top,FP-CL21-IPC_A,55.5,102.5,270,CL21 Series 0805 10uF 25V ±10% Tolerance X5R Multilayer Ceramic Chip Capacitor
+C13,1u,Top,FP-CL21-IPC_A,48.25,79.1758,270,CL21 Series 0805 1uF 16V ±10% Tolerance X7R Multilayer Ceramic Chip Capacitor
+C12,1u,Top,FP-CL21-IPC_A,53.3,90,270,CL21 Series 0805 1uF 16V ±10% Tolerance X7R Multilayer Ceramic Chip Capacitor
+C11,1u,Top,FP-CL21-IPC_A,50.2,90,270,CL21 Series 0805 1uF 16V ±10% Tolerance X7R Multilayer Ceramic Chip Capacitor
+C10,1u,Top,FP-CL21-IPC_A,52.3,78,0,CL21 Series 0805 1uF 16V ±10% Tolerance X7R Multilayer Ceramic Chip Capacitor
+C9,1u,Top,FP-CL21-IPC_A,52.4,73.7,270,CL21 Series 0805 1uF 16V ±10% Tolerance X7R Multilayer Ceramic Chip Capacitor
+C8,1u,Top,FP-CL21-IPC_A,51.5,69.1,270,CL21 Series 0805 1uF 16V ±10% Tolerance X7R Multilayer Ceramic Chip Capacitor
+C7,1u,Top,FP-CL21-IPC_A,43.5,85.5,0,CL21 Series 0805 1uF 16V ±10% Tolerance X7R Multilayer Ceramic Chip Capacitor
+C6,1u,Top,FP-CL21-IPC_A,43.5,77.5,0,CL21 Series 0805 1uF 16V ±10% Tolerance X7R Multilayer Ceramic Chip Capacitor
+C5,100n,Top,FP-CL21-IPC_C,52.4,63,0,CL21 Series 0805 100nF 50V ±10% Tolerance X7R Multilayer Ceramic Chip Capacitor
+C4,100n,Top,FP-CL21-IPC_C,52.4,65.5,0,CL21 Series 0805 100nF 50V ±10% Tolerance X7R Multilayer Ceramic Chip Capacitor
+C3,470n,Top,FP-CL21-IPC_A,56.25,57.25,90,CL21 Series 0805 470nF 50V ±10% Tolerance X7R Multilayer Ceramic Chip Capacitor
+C2,15p,Top,FP-CBR04C-MFG,41.75,61.35,270,CAP CER 15PF 50V C0G/NP0 0402
+C1,15p,Top,FP-CBR04C-MFG,41.75,63.4,90,CAP CER 15PF 50V C0G/NP0 0402
