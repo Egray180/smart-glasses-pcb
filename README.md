@@ -1,5 +1,5 @@
-# Overview
-PCB for smart glasses project, further updates coming. 4 layers, signal-ground-ground-signal. 
+# PCB Design Files
+This repository contains the manufacturing files for the smart glasses PCB and the Altium Designer project files. The PCB is 4 layers, signal-ground-ground-signal. The full project repository can be found [here](https://github.com/Egray180/smart-glasses).
 
 <div align="left">
   <img src="images/Top.png" width="300">
